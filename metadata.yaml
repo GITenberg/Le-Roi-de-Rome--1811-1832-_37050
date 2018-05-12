@@ -1,0 +1,29 @@
+_repo: Le-Roi-de-Rome--1811-1832-_37050
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Welschinger, Henri
+    birthdate: 1846
+    deathdate: 1919
+    gutenberg_agent_id: '38616'
+    url: http://www.gutenberg.org/2009/agents/38616
+    wikipedia: http://fr.wikipedia.org/wiki/Henri_Welschinger
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2011-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37050'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Family'
+- !lcsh 'Bonaparte, François-Charles-Joseph, Herzog von Reichstadt, 1811-1832'
+- !lcc 'DC'
+title: Le Roi de Rome (1811-1832)
+url: http://www.gutenberg.org/ebooks/37050
